@@ -13,8 +13,8 @@ export const books = [
   },
   {
     id: 3,
-    title: "1984",
-    author: "George Orwell",
+    title: "Possibility of an Island",
+    author: "Michel Houellebecq",
     quantity: 7,
   },
   {
@@ -25,8 +25,8 @@ export const books = [
   },
   {
     id: 5,
-    title: "Pride and Prejudice",
-    author: "Jane Austen",
+    title: "The Atrocity Exhibition",
+    author: "J. G. Ballard",
     quantity: 8,
   },
   {
